@@ -1,0 +1,23 @@
+The AZ-500 Microsoft Azure Security Associate Training focuses on those individuals who want to implement and manage security controls and threat protection, and who can manage the identity and access aspect, and other security aspects in a cloud and hybrid environment as a part of an end-to-end infrastructure.
+
+This post will help you with your self-learning and clearing your certification. There are 15 Hands-on Labs included in this course by Microsoft.
+
+Register For A Free Azure Cloud Account
+Role-Based Access Control
+Azure Policy
+Resource Manager Locks
+MFA, Conditional Access and AAD Identity Protection
+Azure AD Privileged Identity Management
+Implement Directory Synchronization
+Network Security Groups and Application Security Groups
+Azure Firewall
+Configuring and Securing ACR and AKS
+How to Encrypt A Virtual Machine
+Update Management in Azure
+Key Vault (Implementing Secure Data by setting up Always Encrypted)
+Securing Azure SQL Database
+Service Endpoints and Securing Storage
+Azure Monitor
+Microsoft Defender for Cloud
+Microsoft Sentinel
+Just-In-Time VM Access
